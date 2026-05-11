@@ -1,0 +1,67 @@
+# STM32 IDE files
+.metadata/
+.settings/
+.project
+.cproject
+.mxproject
+*.launch
+*.uvgui*
+*.uvguix.*
+
+# Build outputs
+Debug/
+Release/
+build/
+*.o
+*.d
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.su
+*.crf
+
+# Object files
+Objects/
+Listings/
+*.axf
+*.sct
+
+# IDE backups
+*.bak
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Baidu cloud temp files
+*.baiduyun*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Resource packs
+compressed package/
+*.rar
+*.zip
+*.7z
+
+# Large resource files / tools
+PCtoLCD2002_汉字工具/
+stm32资料/
+资料包*/
+智宇科技*/
+立创·梁山派*/
+信盈达养老院*/
+STM32CubeMX_project/
+STM32CubeIDE_project/
+SMR12864-15A/
+stm32_Motor_PID*/
+PID算法/
+STM32Project/
+野火STM32*/
+麦轮小车*/
+麦克纳姆轮小车*/
